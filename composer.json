@@ -1,0 +1,16 @@
+{
+  "name": "knovators/image-resize",
+  "description": "This is image resize module description",
+  "type": "library",
+  "require": {
+    "php": ">=7",
+    "illuminate/support": ">=5.5 <6.0.0|>=6 <7.0.0",
+    "intervention/image": "^2.5"
+  },
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "Knovators\\ImageResize\\": "src"
+    }
+  }
+}
