@@ -1,5 +1,5 @@
 {
-  "name": "knovators/image-resize",
+  "name": "knovator/image-resize",
   "description": "This is image resize module description",
   "type": "library",
   "require": {
@@ -10,7 +10,7 @@
   "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
-      "Knovators\\ImageResize\\": "src"
+      "Knovator\\ImageResize\\": "src"
     }
   }
 }
